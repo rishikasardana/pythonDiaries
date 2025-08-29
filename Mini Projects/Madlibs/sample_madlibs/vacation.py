@@ -10,3 +10,5 @@ def madlibs():
     madlib = f"I traveled to {country} and spent my time {verb_ing}.\
                 One day I rode a {vehicle} made of {food}.\
                 It was the most {adj} trip ever!"
+    
+    print(madlib)
